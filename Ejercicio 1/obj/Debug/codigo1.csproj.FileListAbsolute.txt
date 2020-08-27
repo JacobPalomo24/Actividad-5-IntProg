@@ -1,0 +1,7 @@
+C:\Users\jocel\source\repos\codigo1\bin\Debug\codigo1.exe.config
+C:\Users\jocel\source\repos\codigo1\bin\Debug\codigo1.exe
+C:\Users\jocel\source\repos\codigo1\bin\Debug\codigo1.pdb
+C:\Users\jocel\source\repos\codigo1\obj\Debug\codigo1.csprojAssemblyReference.cache
+C:\Users\jocel\source\repos\codigo1\obj\Debug\codigo1.csproj.CoreCompileInputs.cache
+C:\Users\jocel\source\repos\codigo1\obj\Debug\codigo1.exe
+C:\Users\jocel\source\repos\codigo1\obj\Debug\codigo1.pdb

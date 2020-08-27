@@ -1,0 +1,7 @@
+C:\Users\jocel\source\repos\area-circunferencia\bin\Debug\area-circunferencia.exe.config
+C:\Users\jocel\source\repos\area-circunferencia\bin\Debug\area-circunferencia.exe
+C:\Users\jocel\source\repos\area-circunferencia\bin\Debug\area-circunferencia.pdb
+C:\Users\jocel\source\repos\area-circunferencia\obj\Debug\area-circunferencia.csprojAssemblyReference.cache
+C:\Users\jocel\source\repos\area-circunferencia\obj\Debug\area-circunferencia.csproj.CoreCompileInputs.cache
+C:\Users\jocel\source\repos\area-circunferencia\obj\Debug\area-circunferencia.exe
+C:\Users\jocel\source\repos\area-circunferencia\obj\Debug\area-circunferencia.pdb

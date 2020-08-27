@@ -1,0 +1,6 @@
+C:\Users\jocel\source\repos\cotizador-precio-leche\bin\Debug\cotizador-precio-leche.exe.config
+C:\Users\jocel\source\repos\cotizador-precio-leche\bin\Debug\cotizador-precio-leche.exe
+C:\Users\jocel\source\repos\cotizador-precio-leche\bin\Debug\cotizador-precio-leche.pdb
+C:\Users\jocel\source\repos\cotizador-precio-leche\obj\Debug\cotizador-precio-leche.csproj.CoreCompileInputs.cache
+C:\Users\jocel\source\repos\cotizador-precio-leche\obj\Debug\cotizador-precio-leche.exe
+C:\Users\jocel\source\repos\cotizador-precio-leche\obj\Debug\cotizador-precio-leche.pdb
